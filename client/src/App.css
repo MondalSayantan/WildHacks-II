@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.body {
+  background-image: url("../src/assets/nature.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+/* make the background darker */
+.ppp {
+  background-image: url("../src/assets/wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.pppp {
+  background-image: url("../src/assets/pic.jpg");
+  background-repeat: no-repeat;
+}
